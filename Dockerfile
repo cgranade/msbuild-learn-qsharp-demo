@@ -1,5 +1,5 @@
 FROM mcr.microsoft.com/quantum/iqsharp-base:0.11.2003.3107
-ENV IQSHARP_HOSTING_ENV=dev-to-sckaiser-arrays
+ENV IQSHARP_HOSTING_ENV=msbuild-rise-demo
 
 # Add RISE support.
 USER root
